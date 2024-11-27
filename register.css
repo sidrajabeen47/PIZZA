@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 560px;
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 600px;
+}
+form{
+    border: solid 1px whitesmoke;
+    margin-left: 700px;
+    width: 500px;
+    margin-top: 45px;
+    padding-left: 10px;
+}
+label{
+    color: blanchedalmond;
+    font-size: 17px;
+}
+h1{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+}
+input{
+    height: 40px;
+    width: 250px;
+}
+button{
+    height: 45px;
+    width: 200px;
+    background-color: brown;
+    color: blanchedalmond;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+p{
+    color: whitesmoke;
+    font-size: 15px;
+
+}
+p a{
+    color: red;
+    font-size: 15px;
+}

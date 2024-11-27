@@ -1,0 +1,13 @@
+body{
+    background-image: url(bg3.jpg);
+}
+form{
+    margin-left: 70px;
+    width: 400px;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+h1{
+    color: antiquewhite;
+    font-size: 35px;
+}
